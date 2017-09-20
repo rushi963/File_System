@@ -1,0 +1,6 @@
+fwrite, fread - max size - 2048 + 2047
+copy from buffer to disk - when does this happen - fClose
+numberOfBlocksFor a file - not updated
+
+
+searching for a new block
